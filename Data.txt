@@ -1,0 +1,3 @@
+**Data File:** [Download Here](https://drive.google.com/file/d/1vZlbluFt9lmYVUADBZaP-N4mnuY-ETeJ/view?usp=drive_link)
+
+**Pretrained Model(ChemBERTa-77M-MTR):** [Download Here](https://drive.google.com/drive/folders/1eHd8vJ2oT6hvLOegPTqExRx7-kcYWHd1?usp=drive_link)
